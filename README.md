@@ -1,1 +1,2 @@
 # pirates
+maze
